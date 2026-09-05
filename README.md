@@ -252,7 +252,7 @@ The project provides analytical KPIs such as:
 ## Team Members
 
 * **Shubagita P S**
-* **Tamil B S**
 * **Sudharshinee S K**
+* **Tamil B S**
 * **Vaishnavi M**
 
